@@ -1,5 +1,3 @@
-Backend Engineer
-
 I have over 3 years of experience building backend services with Node.js.
 Currently learning and building projects with Go to strengthen my understanding of system design and performance.
 
